@@ -1,7 +1,5 @@
 The following is a main idea of this project. For more details, please see bus_trajectory.pdf
 
-Project Linked: https://drive.google.com/open?id=0B2MjDvta-KubVUtvZmNybld3Zm8
-
 1. What does bus trajectory do ?
     This project tries to find out the reachability of bus transit in Los Angeles. Say, it finds out how far a person
 in a place can travel within 40 minutes by taking bus and walking in LA.

@@ -1,0 +1,15 @@
+1. la_urbanacess.ipynb
+   create transit and osm network, and then integrate them.
+2. closest_node.ipynb
+   for each census block, compute a closest node in the network
+3. economi_compute.ipynb
+   for each census block, compute the number of jobs accessible within 20, 40 and 60 minutes
+   The jobs data comes from LEHD.
+4. drawData.ipynb
+   draw the number of jobs accessible
+5. interactive_map.ipynb
+   save the shapefiles and jobs data into geojson file named "blocks.json", which will be used by demo
+6. reachableBlocks.ipynb
+   for each census block, compute all the blocks it can reach within 20, 40 and 60 minutes
+7. demo/indexl.html
+   under the demo directory, a file named "blocks.json" and a directory named "nearest20" are required
